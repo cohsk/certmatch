@@ -8,3 +8,5 @@ certmatch.go -- source code
 certmatch-mac -- executable file for mac
 
 certmatch-linux -- executable file for linux (has been tested on a Cohesity node)
+
+Certificate Match Test Utility.pdf -- documentation/users guide
